@@ -1,0 +1,23 @@
+body{
+    height: 100vh;
+    background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
+    font-size: 30px;
+    font-family: 'montserrat';
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.botom button p{
+    color: black;
+}
+
+.botom button{
+    background: orangered;
+    border: solid;
+}
+
+.botom button:hover{
+    background: aqua;
+}
